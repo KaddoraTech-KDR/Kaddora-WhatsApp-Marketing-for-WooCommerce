@@ -1,0 +1,13 @@
+.wrap h1 {
+    font-size: 26px;
+    margin-bottom: 20px;
+}
+
+.form-table th {
+    width: 150px;
+}
+
+.widefat {
+    border-radius: 8px;
+    overflow: hidden;
+}
